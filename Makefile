@@ -56,7 +56,7 @@ FORMAT = ihex
 
 
 # Target file name (without extension).
-TARGET = hexbug
+TARGET = nrf24l01p
 
 
 # List C source files here. (C dependencies are automatically generated.)
